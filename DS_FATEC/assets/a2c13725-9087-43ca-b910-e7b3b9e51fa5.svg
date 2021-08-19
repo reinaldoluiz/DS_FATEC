@@ -1,0 +1,49 @@
+<svg id="Navbar_Primary_Color" data-name="Navbar/Primary Color" xmlns="http://www.w3.org/2000/svg" width="803" height="58" viewBox="0 0 803 58">
+  <g id="Grupo_1316" data-name="Grupo 1316" transform="translate(16 1)">
+    <rect id="base" width="803" height="58" rx="4" transform="translate(-16 -1)" fill="#a80532"/>
+    <g id="Grupo_1315" data-name="Grupo 1315">
+      <g id="Menu" transform="translate(-78 -371)">
+        <g id="Navbar_Dropdown" data-name="Navbar/Dropdown" transform="translate(337 380)">
+          <rect id="transparent" width="113" height="38" rx="4" fill="none"/>
+          <text id="Label" transform="translate(47 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue" opacity="0.7"><tspan x="-37.336" y="0">Dropdown</tspan></text>
+          <g id="icon_dropdown_arrow_default" data-name="icon/dropdown arrow/default" transform="translate(90 11)" opacity="0.7">
+            <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="14" height="14" fill="none"/>
+            <path id="icon_dropdown_arrow" data-name="icon/dropdown arrow" d="M.023-6h12L6,0Z" transform="translate(0.977 10)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Navbar_Menu" data-name="Navbar/Menu" transform="translate(261 380)">
+          <rect id="transparent-2" data-name="transparent" width="76" height="38" rx="4" fill="none"/>
+          <text id="Link" transform="translate(38 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue" opacity="0.7"><tspan x="-14.824" y="0">Link</tspan></text>
+        </g>
+        <g id="Navbar_Menu-2" data-name="Navbar/Menu" transform="translate(185 380)">
+          <rect id="transparent-3" data-name="transparent" width="76" height="38" rx="4" fill="none"/>
+          <text id="Home" transform="translate(38 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-21.488" y="0">Home</tspan></text>
+        </g>
+      </g>
+      <g id="Search" transform="translate(-78 -371)">
+        <g id="InputGroup_Base_Text_Middle_Medium" data-name="InputGroup/Base/Text/Middle/Medium" transform="translate(574 380)">
+          <g id="InputGroup_Middle_Placeholder" data-name="InputGroup/Middle/Placeholder">
+            <g id="InputGroup_Middle_Placeholder-2" data-name="InputGroup/Middle/Placeholder" fill="#fff" stroke="#ced4da" stroke-width="1">
+              <rect width="171" height="38" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="170" height="37" rx="3.5" fill="none"/>
+            </g>
+          </g>
+          <text id="Search-2" data-name="Search" transform="translate(14 25)" fill="#868e96" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Search</tspan></text>
+        </g>
+        <g id="Button_Default_Light" data-name="Button/Default/Light" transform="translate(753 380)">
+          <g id="Light_F8F9FA" data-name="Light / #F8F9FA" fill="none" stroke="#f8f9fa" stroke-width="1">
+            <rect width="82" height="38" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="81" height="37" rx="4.5" fill="none"/>
+          </g>
+          <text id="Search-3" data-name="Search" transform="translate(16 24)" fill="#f8f9fa" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Search</tspan></text>
+        </g>
+      </g>
+      <g id="Logo_SIGA_BG_black" data-name="Logo/SIGA/BG_black" transform="translate(14 15)">
+        <path id="Caminho_3227" data-name="Caminho 3227" d="M738.508,179.889a3.7,3.7,0,0,0-.77-.539,14.668,14.668,0,0,0-1.65-.826,16.211,16.211,0,0,0-2.163-.754,8.8,8.8,0,0,0-2.347-.323q-3.227,0-3.227,2.119a1.656,1.656,0,0,0,.348,1.077,3.062,3.062,0,0,0,1.027.772,9.547,9.547,0,0,0,1.7.628q1.026.288,2.383.646a31.765,31.765,0,0,1,3.373,1.1,9.112,9.112,0,0,1,2.548,1.472,5.985,5.985,0,0,1,1.613,2.137,7.29,7.29,0,0,1,.568,3.017,7.432,7.432,0,0,1-.825,3.645,6.864,6.864,0,0,1-2.182,2.406,9.314,9.314,0,0,1-3.117,1.329,15.859,15.859,0,0,1-3.63.413,20.669,20.669,0,0,1-2.933-.215,21.555,21.555,0,0,1-2.933-.628,23.485,23.485,0,0,1-2.768-.988,15.494,15.494,0,0,1-2.475-1.329l2.64-5.135a5.1,5.1,0,0,0,.953.682,14.309,14.309,0,0,0,2,1.005,20.587,20.587,0,0,0,2.658.9,11.352,11.352,0,0,0,2.97.4q3.19,0,3.19-1.9a1.589,1.589,0,0,0-.477-1.185,4.505,4.505,0,0,0-1.32-.844,14.572,14.572,0,0,0-2-.7q-1.155-.323-2.512-.718a21.943,21.943,0,0,1-3.117-1.167,8.213,8.213,0,0,1-2.182-1.454,5.266,5.266,0,0,1-1.283-1.9,6.867,6.867,0,0,1-.422-2.514,7.867,7.867,0,0,1,.77-3.555,7.707,7.707,0,0,1,2.09-2.6,9.165,9.165,0,0,1,3.061-1.6,12.4,12.4,0,0,1,3.685-.539,14.307,14.307,0,0,1,2.677.251,20.568,20.568,0,0,1,2.53.646,18.378,18.378,0,0,1,2.255.9q1.045.5,1.925,1.006Z" transform="translate(-721.055 -172.204)" fill="#444"/>
+        <path id="Caminho_3228" data-name="Caminho 3228" d="M878.708,199.123v-25.5h6.013v25.5Z" transform="translate(-854.326 -173.411)" fill="#444"/>
+        <path id="Caminho_3229" data-name="Caminho 3229" d="M959.7,195.6a9.9,9.9,0,0,1-6.857,2.693,12.4,12.4,0,0,1-4.84-.952,12.109,12.109,0,0,1-3.978-2.676,12.584,12.584,0,0,1-2.7-4.148,13.977,13.977,0,0,1-.99-5.333,12.661,12.661,0,0,1,3.722-9.014,13.675,13.675,0,0,1,15.6-2.244,9.785,9.785,0,0,1,4.07,4.076l-4.473,3.3a6.326,6.326,0,0,0-2.548-2.675,7.172,7.172,0,0,0-3.612-.952,6.12,6.12,0,0,0-4.84,2.245,7.674,7.674,0,0,0-1.357,2.46,9.3,9.3,0,0,0-.477,3.017,8.8,8.8,0,0,0,.513,3.052,7.409,7.409,0,0,0,1.43,2.424,6.5,6.5,0,0,0,2.182,1.6,6.7,6.7,0,0,0,2.805.575,8.335,8.335,0,0,0,6.343-3.2v-.79h-5.06v-4.273h10.047v13.323H959.7Z" transform="translate(-906.43 -172.405)" fill="#fff"/>
+        <path id="Caminho_3230" data-name="Caminho 3230" d="M1117.216,173.626h5.427l9.5,25.5h-6.16l-2.016-5.71h-8.1l-1.98,5.71h-6.16Zm5.757,15.729-3.043-9.014-3.117,9.014Z" transform="translate(-1047.919 -173.411)" fill="#444"/>
+      </g>
+    </g>
+  </g>
+</svg>

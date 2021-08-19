@@ -1,0 +1,71 @@
+<svg id="Calendar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1505.5" height="930" viewBox="0 0 1505.5 930">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1220.5" height="852" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="1505" height="871.5" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="card_background_simple" data-name="card background/simple" fill="#fff">
+    <path d="M 1500 910.5 L 5 910.5 C 2.51872730255127 910.5 0.5 908.527099609375 0.5 906.1021728515625 L 0.5 4.897818088531494 C 0.5 2.472908973693848 2.51872730255127 0.5 5 0.5 L 1500 0.5 C 1502.481323242188 0.5 1504.5 2.472908973693848 1504.5 4.897818088531494 L 1504.5 906.1021728515625 C 1504.5 908.527099609375 1502.481323242188 910.5 1500 910.5 Z" stroke="none"/>
+    <path d="M 5 1 C 2.79443359375 1 1 2.74859619140625 1 4.8978271484375 L 1 906.1019897460938 C 1 908.2514038085938 2.79443359375 910 5 910 L 1500 910 C 1502.20556640625 910 1504 908.2514038085938 1504 906.1019897460938 L 1504 4.8978271484375 C 1504 2.74859619140625 1502.20556640625 1 1500 1 L 5 1 M 5 0 L 1500 0 C 1502.761352539062 0 1505 2.19281005859375 1505 4.8978271484375 L 1505 906.1019897460938 C 1505 908.8071899414062 1502.761352539062 911 1500 911 L 5 911 C 2.2386474609375 911 0 908.8071899414062 0 906.1019897460938 L 0 4.8978271484375 C 0 2.19281005859375 2.2386474609375 0 5 0 Z" stroke="none" fill="#e0e0e0"/>
+  </g>
+  <g id="Grupo_1319" data-name="Grupo 1319" transform="translate(-60 -221)">
+    <text id="_17._Segunda-feira_" data-name="17. Segunda-feira " transform="translate(107 264)" fill="#7a7e83" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">17. Segunda-feira </tspan></text>
+    <text id="_18._Terça-feira_" data-name="18. Terça-feira " transform="translate(443 264)" fill="#7a7e83" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">18. Terça-feira </tspan></text>
+    <text id="_19._Quarta-feira_" data-name="19. Quarta-feira " transform="translate(747 264)" fill="#a80532" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">19. Quarta-feira </tspan></text>
+    <text id="_20._Quinta-feira_" data-name="20. Quinta-feira " transform="translate(1064 264)" fill="#7a7e83" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">20. Quinta-feira </tspan></text>
+    <text id="_17._Sexta-feira_" data-name="17. Sexta-feira " transform="translate(1379 264)" fill="#7a7e83" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">17. Sexta-feira </tspan></text>
+  </g>
+  <line id="Linha_3" data-name="Linha 3" x2="1505" transform="translate(0.5 58.5)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+  <g id="Repetição_de_grade_1" data-name="Repetição de grade 1" transform="translate(284.5 59)" clip-path="url(#clip-path)">
+    <g transform="translate(-359.5 -280)">
+      <path id="Caminho_3235" data-name="Caminho 3235" d="M0,0H871" transform="translate(360 280) rotate(90)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-46.5 -280)">
+      <path id="Caminho_3235-2" data-name="Caminho 3235" d="M0,0H871" transform="translate(360 280) rotate(90)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(266.5 -280)">
+      <path id="Caminho_3235-3" data-name="Caminho 3235" d="M0,0H871" transform="translate(360 280) rotate(90)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(579.5 -280)">
+      <path id="Caminho_3235-4" data-name="Caminho 3235" d="M0,0H871" transform="translate(360 280) rotate(90)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="Repetição_de_grade_2" data-name="Repetição de grade 2" transform="translate(0 58.5)" clip-path="url(#clip-path-2)">
+    <g transform="translate(-75 -386.499)">
+      <path id="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 -301.499)">
+      <path id="line-2" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 -216.499)">
+      <path id="line-3" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 -131.499)">
+      <path id="line-4" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 -46.499)">
+      <path id="line-5" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 38.501)">
+      <path id="line-6" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 123.501)">
+      <path id="line-7" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 208.501)">
+      <path id="line-8" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 293.501)">
+      <path id="line-9" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 378.501)">
+      <path id="line-10" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+    <g transform="translate(-75 463.501)">
+      <path id="line-11" data-name="line" d="M76,194.628H1581" transform="translate(-1 192.371)" fill="none" stroke="#e2e6ea" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
