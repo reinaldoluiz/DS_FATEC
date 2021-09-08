@@ -16,7 +16,7 @@
       "type": "page",
       "id": "63777c2e-1244-4687-aa9f-e6728aef0b35",
       "name": "Principles",
-      "description": "Edit this with the pencil icon. \n\n[Markdown](https://commonmark.org/help/) is supported to help you create great documentation for your design system.",
+      "description": "# Design System \nOs componentes foram construidos utilizando AdobeXD. \n\nPara implementar os componentes web e distrubui-los escolhemos `stencil`",
       "tags": []
     }
   ]

@@ -1,0 +1,16 @@
+.alert-container {
+  background: #cce5ff;
+
+  padding: 15px;
+  color: #004084;
+
+  border-radius: 4px;
+
+  border: 1px solid #badcff;
+
+  font-family: 'heuvetica-neue';
+}
+
+.alert-header {
+  font-weight: 600;
+}
