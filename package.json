@@ -1,7 +1,7 @@
 {
   "name": "ds-fatec",
-  "version": "0.0.2",
-  "description": "Stencil Component Starter",
+  "version": "1.0.0",
+  "description": "Design system web components",
   "main": "dist/index.cjs.js",
   "module": "dist/custom-elements/index.js",
   "es2015": "dist/esm/index.mjs",
@@ -29,10 +29,10 @@
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@storybook/addon-actions": "^6.3.7",
-    "@storybook/addon-essentials": "^6.3.7",
+    "@storybook/addon-essentials": "^6.1.21",
     "@storybook/addon-links": "^6.3.7",
-    "@storybook/html": "^6.3.7",
-    "@storybook/react": "^6.3.7",
+    "@storybook/html": "^6.1.21",
+    "@storybook/react": "^6.3.9",
     "@types/jest": "^26.0.24",
     "@types/puppeteer": "^5.4.3",
     "babel-loader": "^8.2.2",
